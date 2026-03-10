@@ -1,8 +1,8 @@
 class CcStatus < Formula
   desc "System tray monitor for Claude Code sessions"
   homepage "https://github.com/noellch/cc-status"
-  url "https://github.com/noellch/cc-status/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "3e55ee3b22f26cbe8d3e3563e071ab0c0cce67bf5c1905493bdac2727ee7c192"
+  url "https://github.com/noellch/cc-status/archive/refs/tags/v0.1.1.tar.gz"
+  sha256 "d8d67a8fe9e86aece68ee15b2a11b9ccf0b17bab10ade3ccebf807dffcf995cc"
   license "MIT"
 
   on_macos do
