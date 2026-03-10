@@ -1,6 +1,6 @@
 cask "cc-status" do
-  version "0.1.1"
-  sha256 "ca3fe7f07a75f5c09d338e4aecb889a1512b67853b35b2e025a237d17ece7647"
+  version "0.1.2"
+  sha256 "943a05be94dbf1e7cd02ccf88cdecb5dcb7bc4f8c53ff48f04f5e426c9f2897f"
 
   url "https://github.com/noellch/cc-status/releases/download/v#{version}/CCStatus-macos-arm64.zip"
   name "CC Status"
